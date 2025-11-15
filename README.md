@@ -68,8 +68,6 @@ app/
 
 └── component/
 
-yaml
-Copy code
 
 ---
 
@@ -87,7 +85,7 @@ Copy code
 
 ## 🔐 Release Listo para Producción
 - Configuración de `signingConfigs` para compilar en modo **release**.  
-- Generación de **APK** o **AAB** desde Android Studio.  
+- Generación de **APK**  desde Android Studio.  
 
 ---
 
