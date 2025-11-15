@@ -3,6 +3,13 @@
 Aplicación móvil Android desarrollada en **Kotlin + Jetpack Compose**, que permite gestionar inventarios, consultar productos desde una API REST, almacenarlos localmente con Room y visualizar los datos incluso sin conexión.  
 Incluye arquitectura limpia, DI con Hilt y pruebas unitarias/instrumentadas.
 
+<img width="163" height="540" alt="image" src="https://github.com/user-attachments/assets/c92174e7-47a6-47a5-8cc1-ceba8f7e35e8" />
+<img width="153" height="552" alt="image" src="https://github.com/user-attachments/assets/95211e7a-a310-4574-acb0-19161d3db8b7" />
+
+
+
+
+
 ---
 
 ## 🚀 Características principales
