@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+        <string name="home_title">Productos</string>
+    <string name="home_error_loading">Error al cargar los productos</string>
+    <string name="home_loading">Cargando…</string>
+    <string name="home_retry">Reintentar</string>
+</resources>

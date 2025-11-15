@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle-wrapper.jar
+
+# Local settings
+local.properties
+local.properties/
+gradle.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NDK / C++
+.cxx/
+externalNativeBuild/
+
+# Generated files
+captures/
+output.json
+
+# Logs
+*.log
+
+# Kotlin
+*.kotlin_module
+
+# Jetpack Compose
+compose-metrics/
+compose-reports/
+
+# Signing keys
+*.jks
+*.keystore
+key.properties
+
+# Packaging
+*.apk
+*.aab
+
